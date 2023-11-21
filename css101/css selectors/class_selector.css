@@ -1,0 +1,23 @@
+.paragraph{
+    background-color: chocolate;
+}
+.para1{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: khaki;
+}
+.para2{
+    font-size: 30px;
+    font-family:fantasy;
+    color: forestgreen;
+}
+.para3{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: lemonchiffon;
+}
+.para4{
+    font-size: 50px;
+    font-family:sans-serif;
+    color: goldenrod;
+}

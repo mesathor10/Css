@@ -1,0 +1,7 @@
+h4, p, article, b {
+    color: red;
+    background-color: chartreuse;
+    font-size: 26px;
+    font-family: monospace;
+    
+}
