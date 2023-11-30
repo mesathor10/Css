@@ -1,0 +1,37 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    color: azure;
+    background-image: url("https://img.freepik.com/free-photo/education-pencil-wood-close-up-background-generative-ai_188544-8011.jpg?t=st=1701152397~exp=1701155997~hmac=0d765cd28c1e27aa3d9cb0e1cdd5852f8468426dd54adbcbd51d6fc9c97cd6e4&w=996");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom;
+}
+h1{
+    text-align: center;
+    font-size: 54px;
+}
+
+.para1{
+    text-align: center;
+}
+.para2{
+    text-overflow: ellipsis;
+    white-space: wrap;
+}
+.btn, .info{
+text-align: center;
+}
+input{
+width: 90px;
+height: 50px;
+font-size: larger;
+color: azure;
+font-weight: bold;
+border: 2px solid rgb(16, 16, 16);
+background-color: orange;
+}
+.sp{
+    text-decoration: underline;
+}

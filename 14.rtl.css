@@ -1,0 +1,11 @@
+*{
+    color: rgb(255, 237, 44);
+}
+.rtl{
+    text-align: right;
+    
+}
+.ltr{
+    text-align: left;
+    
+}

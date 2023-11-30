@@ -1,0 +1,12 @@
+.pic{
+    background-image: url("https://initiate.alphacoders.com/images/481/cropped-150-150-481903.png?2991");
+    background-size:auto;
+    /* width: 200px; */
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    
+}   
+p{
+    line-height: 30px;
+}
+

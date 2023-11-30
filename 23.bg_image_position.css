@@ -1,0 +1,11 @@
+.move{
+    /* text-align: center; */
+    color: crimson;
+    width: 200px;
+    height: 200px;
+    background-image: url("https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    margin: 50% 100%;
+}
+body{
+    text-align: center;
+}

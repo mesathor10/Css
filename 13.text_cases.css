@@ -1,0 +1,12 @@
+*{
+    color: rgb(255, 88, 88);
+}
+.para1{
+    text-transform: capitalize;
+}
+.para2{
+    text-transform: lowercase;
+}
+.para2{
+    text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+.pic{
+    background-image: url("https://img.freepik.com/free-photo/lakes-with-clear-waters-surrounded-by-high-peaks_60438-3457.jpg?w=1060&t=st=1701187881~exp=1701188481~hmac=281cd4a6211c5aa55aa9da0fc6592e660d889c4cef90a545c9f74162c881c9b8");
+    background-size: contain;
+    width: 100%;
+    background-repeat: repeat-y;
+    height: 800px;
+}
+p{
+    line-height: 30px;
+}

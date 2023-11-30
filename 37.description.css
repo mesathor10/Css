@@ -1,0 +1,10 @@
+.bl{
+    float: left;
+    background-color: blue;
+    width: 5%;
+    height: 42rem;
+}
+dl{
+    float: right;
+    width: 90%;
+}

@@ -1,0 +1,13 @@
+h1{
+    font-size: xx-large;
+
+}
+h3{
+    font-size: x-large;
+    font-weight: bold;
+}
+ul{
+    list-style-type: disc;
+    font-size: large;
+    font-weight: 500;
+}

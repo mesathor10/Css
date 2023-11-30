@@ -1,0 +1,11 @@
+div{
+    background-color:aquamarine;
+    width: 80%;
+}
+table{
+    width: 80%;
+    border: 1px solid whitesmoke;
+}
+tfoot tr td{
+    text-align: center;
+}

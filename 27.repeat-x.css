@@ -1,0 +1,10 @@
+.pic{
+    background-image: url("https://images.pexels.com/photos/2365457/pexels-photo-2365457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: contain;
+    width: 100%;
+    background-repeat: repeat-x;
+    height: 700px;
+}
+p{
+    line-height: 30px;
+}

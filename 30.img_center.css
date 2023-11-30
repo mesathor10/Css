@@ -1,0 +1,9 @@
+.pic{
+    background-image: url("https://img.freepik.com/free-vector/electric-lightning-starburst-realistic-image_1284-21466.jpg?w=740&t=st=1701188766~exp=1701189366~hmac=37773df35447fe8aa9db6d3f43ddaadf5646229ec3054cdd9c43046b327254d0");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+p{
+    line-height: 30px;
+}

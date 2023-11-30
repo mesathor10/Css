@@ -1,0 +1,9 @@
+.pic{
+    background-image: url("https://img.freepik.com/free-photo/sunset-water-nature-beauty-reflected-tranquil-waves-generated-by-artificial-intelligence_25030-67519.jpg?t=st=1701188254~exp=1701191854~hmac=fc5a98d20527703875606cf0a18556328f2f824ebff65f6971639740fd8bc685&w=900");
+    width: 100%;
+    background-size: auto;
+    color: white;
+}
+p{
+    line-height: 30px;
+}

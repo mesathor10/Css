@@ -1,0 +1,18 @@
+.a1:hover{
+    background-color: aqua;
+}
+.a2:link{
+    background-color: lightcoral;
+}
+.a3:visited{
+    color: chartreuse;
+}
+div:first-child{
+    background-color: blueviolet;
+}
+p:nth-child(even){
+    background-color: cadetblue;
+}
+p:nth-child(odd){
+    background-color: chocolate;
+}
